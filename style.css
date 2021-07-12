@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(117, 0, 128);
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 40px;
+    line-height: 1.8;
+    text-align: center;
+  }
+  .container{
+    text-align: center;
+    background-image: -moz-element(); 
+    border:blueviolet;
+    border-radius: 50px;
+    box-shadow: rgb(4, 0, 255);
+  }
+  body{
+    color:rgb(117, 0, 128);
+    background-color: rgb(165, 138, 154);    
+    font-family: Courier , monospace;
+    font-size: 20px; 
+    line-height: 1.6;  
+  }
+  
+  
+  
+  
+  
+  
